@@ -16,9 +16,10 @@ This is a practice repository for mastering crucial and advanced concepts in Rea
 
 ## Screenshots or GIFs
 
-![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/1eb1ec65-fa01-4fc5-b25c-74f203cee2bf)
-![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/f0383d8a-0a63-4071-8afd-124c3e60d36e)
-![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/357be9bb-90ce-40e0-89f9-da2ef4584f1a)
-![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/e9b805d8-4c6a-4ead-94b8-a215c565965b)
+![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/751b6e2c-20cf-4321-b063-63d0b3376843)
+![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/6367cc62-9663-4e69-a465-90e9255df271)
+![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/6ca42818-d729-4439-89ad-0bf857c5cf5e)
+![image](https://github.com/sidrakhandev/tic-tac-toe-deep-dive/assets/53394560/54f9205a-96df-4137-a62c-a1b7e49ff3e2)
+
 
 
